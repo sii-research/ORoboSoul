@@ -19,7 +19,8 @@
 Repository | Description
 ---- | ----
 [Digital Gene](https://github.com/sii-research/DigitalGene)			| Brief Description 
-[End-to-end Causal Reasoning Closed-loop Interactive Learning](https://github.com)				| Brief Description 
+[End-to-end Causal Reasoning Closed-loop Interactive Learning](https://github.com/sii-research/ORoboSoul/tree/causal-robot/causal-robot/README.md) | Safe and robust robotic action with causal reasoning.
+[Synthesis and Characterization of Associated Embodied Data](https://github.com) | Brief Description
 [Embodied Companion: Data and Representation](https://github.com) | Complex manipulation skills directly from human demonstration
 [IL-Studio: One-stop Platform for Imitation Learning Data](https://github.com) | Brief Description
 [Commonsense Embodied Decision-making](https://github.com) | Brief Description
