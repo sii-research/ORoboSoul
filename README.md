@@ -10,10 +10,9 @@
 <p align="center">
         </a>&nbsp&nbsp⭐️ <a href="https://github.com/">Project</a></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://www.modelscope.cn">ModelScope</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="http://arxiv.org">Paper</a>&nbsp&nbsp | &nbsp&nbsp💬 <a href="./assets/wechat.png">WeChat</a>
 </p>
+<img src="assets/robosoul_projects.png" width="400"/>
 
 </div>
-
-<img src="assets/robosoul_projects.png" width="400"/>
 
 ## ⭐️ Projects
 
