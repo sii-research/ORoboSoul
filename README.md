@@ -3,7 +3,7 @@
 <img src="assets/logo.png" width="400"/>
 
 
-# RoboSoul: General Embodied Brain Research
+# ORoboSoul: General Embodied Brain Research
 **Unified digital gene and representation systems, large foundation models, and collaborative system evolution**
 
 
