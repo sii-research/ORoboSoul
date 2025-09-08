@@ -13,6 +13,7 @@
 
 </div>
 
+<img src="assets/robosoul_projetcs.png" width="400"/>
 
 ## ⭐️ Projects
 
