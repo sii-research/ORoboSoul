@@ -1,8 +1,8 @@
 # End-to-End Causal Reasoning Closed-loop Interactive Learning
 
-<div style="text-align:center;">
+<div align="center">
   <img src="assets/causal-rob.png" width="500"/>
-</div></br>
+</div>
 
 ## Overview
 This project explores **end-to-end causal reasoning** within a **closed-loop interactive learning** framework.  
