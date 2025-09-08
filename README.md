@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="assets/robosoul_projetcs.png" width="400"/>
+<img src="assets/robosoul_projects.png" width="400"/>
 
 ## ⭐️ Projects
 
