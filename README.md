@@ -32,7 +32,9 @@ Details
 
 <details>
 <summary>End-to-end Causal Reasoning Closed-loop Interactive Learning</summary>
-![causal-rob](./assets/causal-rob.png)
+<div style="text-align:center;">
+  <img src="assets/causal-rob.png" width="500"/>
+</div></br>
 Enabling intelligent systems—especially robots—by not only perceiving and acting, but also understanding causal relations, making safer and more robust decisions, and continually refining their knowledge through real-world interactions
 </details>
 
