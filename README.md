@@ -20,7 +20,7 @@ Repository | Description
 ---- | ----
 [Digital Gene](https://github.com/sii-research/DigitalGene)			| Brief Description 
 [End-to-end Causal Reasoning Closed-loop Interactive Learning](https://github.com)				| Brief Description 
-[Synthesis and Characterization of Associated Embodied Data](https://github.com) | Brief Description
+[Embodied Companion: Data and Representation](https://github.com) | Complex manipulation skills directly from human demonstration
 [IL-Studio: One-stop Platform for Imitation Learning Data](https://github.com) | Brief Description
 [Commonsense Embodied Decision-making](https://github.com) | Brief Description
 
@@ -35,8 +35,8 @@ Details
 </details>
 
 <details>
-<summary>Synthesis and Characterization of Associated Embodied Data</summary>
-Details
+<summary>Embodied Companion: Data and Representation</summary>
+builds large-scale human–robot companion data and unified representations to transfer everyday human manipulation into robot-executable skills, empowering downstream VLA models.
 </details>
 
 <details>
