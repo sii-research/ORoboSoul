@@ -1,5 +1,7 @@
 # End-to-End Causal Reasoning Closed-loop Interactive Learning
 
+![causal-robot-pipeline](./assets/causal-robot.png)
+
 ## Overview
 This project explores **end-to-end causal reasoning** within a **closed-loop interactive learning** framework.  
 Our aim is to enable intelligent systems—especially robots—to not only perceive and act, but also to **understand causal relations**, make safer and more robust decisions, and continually refine their knowledge through real-world interactions.
@@ -30,6 +32,8 @@ Key features:
 ---
 
 ## Demo
+![demo1](assets/demo1.mp4)
+
 📺 **Demo Video (Coming Soon)**  
 👉 *A placeholder for showcasing real-world experiments and results.*  
 
