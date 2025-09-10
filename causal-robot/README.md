@@ -1,4 +1,4 @@
-# End-to-End Causal Reasoning Closed-loop Interactive Learning
+# End-to-End Causal Reasoning and Closed-loop Interactive Learning
 
 <div align="center">
   <img src="assets/causal-rob.png" width="500"/>
@@ -54,7 +54,7 @@ Key features:
 If you find this project useful for your research, please cite:  
 ```bibtex
 @article{end2end_causal_learning,
-  title={End-to-End Causal Reasoning Closed-loop Interactive Learning},
+  title={End-to-End Causal Reasoning and Closed-loop Interactive Learning},
   author={Your Team},
   journal={Research Project},
   year={2025}
