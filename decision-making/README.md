@@ -1,8 +1,9 @@
 # Commonsense Embodied Decision-making
 
 
-
-
+<div align="center">
+<img src="assets/ahat.png" width="800"/>
+</div>
 
 ## Overview 
 **Commonsense Embodied Decision-making (CED)** is an open-source research framework for embodied AI. It targets a central challenge: enabling intelligent agents (robots, virtual assistants) to use **commonsense knowledge**—as humans do—to understand complex instructions, interact with the physical world, and make informed decisions.
