@@ -23,7 +23,7 @@ Repository | Description
 [Synthesis and Characterization of Associated Embodied Data](https://github.com) | Brief Description
 [Embodied Companion: Data and Representation](https://github.com) | Complex manipulation skills directly from human demonstration
 [IL-Studio: One-stop Platform for Imitation Learning Data](https://github.com/WwZzz/IL-Studio) | A plug-and-Play imitation-learning playground for robotics
-[Commonsense Embodied Decision-making](https://github.com) | Brief Description
+[Commonsense Embodied Decision-making](https://github.com/sii-research/ORoboSoul/tree/feature/decision-making/decision-making#readme) | Any House Any Task embodied planning model
 
 <details>
 <summary>Digital Gene</summary>
@@ -50,7 +50,14 @@ IL-Studio is an open-source repository that lets researchers and engineers jump-
 
 <details>
 <summary>Commonsense Embodied Decision-making</summary>
-Details
+
+Commonsense Embodied Decision-making is an open-source research framework for embodied AI, aimed at enabling intelligent agents, such as robots, to leverage commonsense knowledge like humans to understand complex instructions and make decisions.
+
+<div align="center">
+  <img src="assets/desicion-making.png" width="500"/>
+</div>
+
+AHAT (Any House Any Task) is an end-to-end Large Language Model (LLM) to serve as the agent's reasoning and decision-making core.
 </details>
 
 ## 📆 Todo
