@@ -22,7 +22,7 @@ Repository | Description
 [End-to-end Causal Reasoning Closed-loop Interactive Learning](https://github.com/sii-research/ORoboSoul/tree/causal-robot/causal-robot/README.md) | Safe and robust robotic action with causal reasoning
 [Synthesis and Characterization of Associated Embodied Data](https://github.com) | Brief Description
 [Embodied Companion: Data and Representation](https://github.com) | Complex manipulation skills directly from human demonstration
-[IL-Studio: One-stop Platform for Imitation Learning Data](https://github.com) | Brief Description
+[IL-Studio: One-stop Platform for Imitation Learning Data](https://github.com/WwZzz/IL-Studio) | A plug-and-Play imitation-learning playground for robotics
 [Commonsense Embodied Decision-making](https://github.com) | Brief Description
 
 <details>
@@ -45,7 +45,7 @@ builds large-scale human–robot companion data and unified representations to t
 
 <details>
 <summary>IL-Studio: One-stop Platform for Imitation Learning Data</summary>
-Details
+IL-Studio is an open-source repository that lets researchers and engineers jump-start imitation-learning experiments on popular robot manipulation benchmarks with minimal friction. The entire training, evaluation, and deployment pipeline has been carefully modularized so that you can swap-in your own policy, environment, or dataset without touching the rest of the stack.
 </details>
 
 <details>
