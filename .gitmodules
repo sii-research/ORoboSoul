@@ -1,0 +1,3 @@
+[submodule "video-annotation-tool"]
+	path = video-annotation-tool
+	url = git@github.com:YushunXiang/video-annotation-tool.git
