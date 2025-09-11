@@ -1,7 +1,13 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="assets\ropl.png" alt="Logo" width="100">
-  <h1>Commonsense Embodied Decision-making</h1>
-</div>
+<table>
+  <tr>
+    <td width="120" valign="middle">
+      <img src="assets/ropl.png" alt="Logo" width="100">
+    </td>
+    <td valign="middle">
+      <h1>Commonsense Embodied Decision-making</h1>
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
