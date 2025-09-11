@@ -4,6 +4,11 @@
   <img src="assets/causal-rob.png" width="500"/>
 </div>
 
+<p align="center">
+        </a>&nbsp&nbsp⭐️ <a href="https://github.com/">Project</a></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/sii-research/CausalRobot-400M">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://www.modelscope.cn">ModelScope</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="http://arxiv.org">Paper</a>&nbsp&nbsp
+</p>
+</div>
+
 ## Overview
 This project explores **end-to-end causal reasoning** within a **closed-loop interactive learning** framework.  
 Our aim is to enable intelligent systems—especially robots—to not only perceive and act, but also to **understand causal relations**, make safer and more robust decisions, and continually refine their knowledge through real-world interactions.
