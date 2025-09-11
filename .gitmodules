@@ -1,3 +1,3 @@
-[submodule "causal-robot/video-annotation-tool"]
-	path = causal-robot/video-annotation-tool
-	url = git@github.com:YushunXiang/video-annotation-tool.git
+[submodule "causal-robot/CausalVideoAnnotator"]
+    path = causal-robot/CausalVideoAnnotator
+    url = git@github.com:YushunXiang/CausalVideoAnnotator.git
