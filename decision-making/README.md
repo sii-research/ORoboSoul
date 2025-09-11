@@ -1,4 +1,7 @@
-# Commonsense Embodied Decision-making
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="assets\ropl.png" alt="Logo" width="100">
+  <h1>Commonsense Embodied Decision-making</h1>
+</div>
 
 
 <div align="center">
@@ -39,7 +42,9 @@ To promote diversity in actions, difficulty, and object interactions, we created
 - **Needs-based instructions** (the most challenging), which require inferring underlying user intent and grounding it in the current scene to produce a successful plan.
 
 ## Model
-
+<p>
+&nbsp;&nbsp;🤗 <a href="https://huggingface.co/RoPLSii/decision-making-e2e-0.0" target="_blank">RoPLSii/decision-making-e2e-0.0</a>&nbsp;&nbsp;
+</p>
 
 
 ## Online demo
