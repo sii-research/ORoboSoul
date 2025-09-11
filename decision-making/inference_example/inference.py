@@ -47,43 +47,40 @@ def get_plan(text):
         return "no plan extracted"
 
 
-def inference_transformer(model_name_or_path, scene_graph_path, task, prompt_path):
-    tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name_or_path,
+def inference_pipeline(model_name_or_path, scene_graph_path, task, prompt_path):
+    pipe = pipeline(
+        "text-generation",
+        model=model_name_or_path,
         torch_dtype=torch.bfloat16,
-        attn_implementation='flash_attention_2',
-        device_map='auto',
+        device_map="auto",
+        model_kwargs={"attn_implementation": "flash_attention_2"}
     )
-    model.eval()
     
     with open(scene_graph_path, 'r') as file:
         scene_graph = json.load(file)
         
     with open(prompt_path, 'r') as file:
         prompt = file.read()
-        
     
     input_content = f"{prompt}\n<Instruction>{task}</Instruction>\n<SceneGraph>{scene_graph}</SceneGraph>"
     messages = [
         {'role': 'system', 'content': 'You are a helpful assistant.'},
         {'role': 'user', 'content': input_content}
     ]
-    inputs = tokenizer.apply_chat_template(
-        messages,
-        tokenize=True,
-        add_generation_prompt=True,
-        return_tensors='pt'
-    ).to(model.device)
-
-    input_length = inputs.shape[1]
-    with torch.no_grad():
-        outputs = model.generate(
-            inputs=inputs,
-            max_new_tokens=5000,
-        )
     
-    response = tokenizer.decode(outputs[0][input_length:], skip_special_tokens=True)
+    formatted_input = pipe.tokenizer.apply_chat_template(
+        messages,
+        add_generation_prompt=True,
+        tokenize=False
+    )
+    
+    outputs = pipe(
+        formatted_input,
+        max_new_tokens=5000,
+        return_full_text=False 
+    )
+    
+    response = outputs[0]['generated_text']
     plan = get_plan(response)
     return response, plan
 
@@ -92,7 +89,7 @@ if __name__ == "__main__":
     scene_graph_path = 'inference_example\scene_graphs\scene_graph_1.json'
     task = 'Pick up a drinking glass from dining_table in kitchen, fill it at sink, and hand it to person in kitchen.'
     prompt_path = 'inference_example\prompt.txt'
-    response, plan = inference_transformer(
+    response, plan = inference_pipeline(
         model_name_or_path=model_name_or_path,
         scene_graph_path=scene_graph_path,
         task=task,
