@@ -55,4 +55,3 @@ Commonsense Embodied Decision-making is an open-source research framework for em
 AHAT (Any House Any Task) is an end-to-end Large Language Model (LLM) to serve as the agent's reasoning and decision-making core.
 </details>
 
-## 📆 Todo
