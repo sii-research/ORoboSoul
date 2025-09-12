@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-        </a>&nbsp&nbsp⭐️ <a href="https://github.com/">Project</a></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/sii-research/CausalRobot-400M">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://www.modelscope.cn">ModelScope</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="http://arxiv.org">Paper</a>&nbsp&nbsp
+        &nbsp&nbsp🤗 <a href="https://huggingface.co/sii-research/CausalRobot-400M">Hugging Face</a>&nbsp&nbsp
 </p>
 </div>
 
@@ -41,6 +41,27 @@ Key features:
 ## Demo 📺
 ![demo1](assets/demo1.gif)
 
+![demo1](assets/0.gif)
+
+![demo1](assets/1.gif)
+
+![demo1](assets/2.gif)
+
+![demo1](assets/3.gif)
+
+![demo1](assets/4.gif)
+
+![demo1](assets/5.gif)
+
+![demo1](assets/6.gif)
+
+![demo1](assets/7.gif)
+
+![demo1](assets/8.gif)
+
+![demo1](assets/9.gif)
+
+![demo1](assets/10.gif)
 
 👉 *A placeholder for showcasing real-world experiments and results.*  
 
