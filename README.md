@@ -20,7 +20,7 @@ Repository | Description
 ---- | ----
 [OpenEAI-ARM](https://github.com/eai-yeslab/OpenEAI-Arm)			| Open source robotic arm system
 [OpenEAI-VLA](https://github.com/eai-yeslab/OpenEAI-VLA)      | Open source VLA including data preprocessing, VLA network, inference etc
-[OpenEAI-Platform-Paper(https://github.com/eai-yeslab/OpenEAI-VLA/blob/main/paper/OpenEAI-Platform.pdf) |  OpenEAI-Platform paper describing technical details
+[OpenEAI-Platform-Paper](https://github.com/eai-yeslab/OpenEAI-VLA/blob/main/paper/OpenEAI-Platform.pdf) |  OpenEAI-Platform paper describing technical details
 
 ## License
 
