@@ -9,6 +9,9 @@
 <div align="left">
 This repository provides the official (open-source) implementation for our paper: OpenEAI-Platform, a reproducible hardware–software stack for real-world embodied manipulation. OpenEAI-Platform aims to lower the barrier for building, reproducing, and scaling real-world Embodied AI systems by releasing the complete pipeline—from robot hardware designs and low-level control to data collection, dataset processing, two-stage VLA training, and deployment interfaces.
 
+
+<img src="assets/OpenEAI_Platform.jpg" width="1200" alt="OpenEAI Platform">
+
 This platform currently consists of two repositories:
 
 ## ⭐️ Repository | Description
