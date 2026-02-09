@@ -3,12 +3,19 @@
 <img src="assets/logo.png" width="400"/>
 
 
-# ORoboSoul: General Embodied Brain Research
-**Unified digital gene and representation systems, large foundation models, and collaborative system evolution**
+# OpenEAI-Platform: An Open-source Embodied Artificial Intelligence Hardware-Software Unified Platform
 
-<img src="assets/robosoul_projects.png" width="500"/>
+This repository provides the official (open-source) implementation for our paper: **OpenEAI-Platform**, a reproducible hardware–software stack for real-world embodied manipulation. OpenEAI-Platform aims to lower the barrier for building, reproducing, and scaling real-world Embodied AI systems by releasing the complete pipeline—from robot hardware designs and low-level control to data collection, dataset processing, two-stage VLA training, and deployment interfaces.
 
-</div>
+This platform currently consists of two repositories:
+
+## ⭐️ Repository | Description
+
+Repository | Description
+---- | ----
+[OpenEAI-ARM](https://github.com/eai-yeslab/OpenEAI-Arm)			| Open source robotic arm system
+[OpenEAI-VLA](https://github.com/eai-yeslab/OpenEAI-VLA)      | Open source VLA including data preprocessing, VLA network, inference etc
+
 
 ## ⭐️ Projects
 
