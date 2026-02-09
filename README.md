@@ -19,7 +19,7 @@ Repository | Description
 [Embodied Companion: Data and Representation](https://github.com) | Complex manipulation skills directly from human demonstration
 [IL-Studio: One-stop Platform for Imitation Learning Data](https://github.com/WwZzz/IL-Studio) | A plug-and-Play imitation-learning playground for robotics
 [Commonsense Embodied Decision-making](https://github.com/sii-research/ORoboSoul/tree/feature/decision-making/decision-making#readme) | Any House Any Task embodied planning model
-
+[OpenEAI-Platform: Open-source Embodied Artificial Intelligence Hardware-Software Unified Platform](https://github.com/sii-research/ORoboSoul/tree/openeai-platform/README.md) | One stop open source for embodied foundational model hardware and software
 <details>
 <summary>Digital Gene</summary>
 Details
